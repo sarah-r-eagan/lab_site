@@ -1,3 +1,6 @@
 [submodule "sara-r-eagan.github.io/public/sarah-r-eagan.github.io"]
 	path = sara-r-eagan.github.io/public/sarah-r-eagan.github.io
 	url = https://github.com/sarah-r-eagan/sarah-r-eagan.github.io.git
+[submodule "sara-r-eagan.github.io/public/--force"]
+	path = sara-r-eagan.github.io/public/--force
+	url = https://github.com/sarah-r-eagan/sarah-r-eagan.github.io.git
