@@ -1,0 +1,60 @@
+# Navigation Links
+#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+#     desired widget in your `content/home/` folder.
+#   The weight parameter defines the order that the links will appear in.
+
+[[main]]
+  name = "About"
+  url = "about/"
+  weight = 10
+
+[[main]]
+  name = "Research"
+  url = "projects/"
+  weight = 20
+
+[[main]]
+  name = "Posts"
+  url = "posts/"
+  weight = 30
+
+[[main]]
+  name = "Collaborators"
+  url = "collaborators/"
+  weight = 40
+
+[[main]]
+  name = "Announcements"
+  url = "announcements/"
+  weight = 50
+
+[[main_right]]
+  name = "<i class=\"fab fa-github-alt\" style=\"color: #333; font-size: 1rem; line-height: 1.25\"></i>"
+  post = ""
+  url = "https://github.com/neurophysicole/"
+  weight = 10
+
+[[main_right]]
+  name = "<i class=\"fab fa-twitter\" style=\"color: #55acee; font-size: 1rem; line-height: 1.25\"></i>"
+  post = ""
+  url = "https://twitter.com/neurophysicole"
+  weight = 20
+  
+[[main_right]]
+  name = "<i class=\"fab fa-linkedin-in\" style=\"color: #0e76a8; font-size: 1rem; line-height: 1.25\"></i>"
+  post = ""
+  url = "https://linkedin.com/in/colezj/"
+  weight = 30
+
+[[main_right]]
+  name = "<a href=\"mailto:zachary@neurophysicole.com\"><i class=\"far fa-envelope\" style=\"color: #111; font-size: 1rem; line-height: 1.25\"></i></a>"
+  post = ""
+  url = ""
+  weight = 40
+  
+# Link to a PDF of your resume/CV from the menu.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+# [[main]]
+#    name = "CV"
+#    url = "files/cv.pdf"
+#    weight = 70
