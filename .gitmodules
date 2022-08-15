@@ -7,3 +7,6 @@
 [submodule "sara-r-eagan.github.io/--name"]
 	path = sara-r-eagan.github.io/--name
 	url = https://github.com/sarah-r-eagan/sarah-r-eagan.github.io.git
+[submodule "sara-r-eagan.github.io/--public"]
+	path = sara-r-eagan.github.io/--public
+	url = https://github.com/sarah-r-eagan/sarah-r-eagan.github.io.git
