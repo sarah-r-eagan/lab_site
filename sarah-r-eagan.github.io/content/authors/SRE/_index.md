@@ -1,6 +1,6 @@
 ---
 authors:
-- zc
+- zctest
 bio: null
 education:
   courses:

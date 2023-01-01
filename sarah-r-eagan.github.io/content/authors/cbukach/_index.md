@@ -1,7 +1,7 @@
 ---
 authors:
 - cbukach
-bio: Boss, Mentor at UR
+bio: Boss, Mentor at UR tester
 education:
   courses:
   - course: PhD in Psychology
